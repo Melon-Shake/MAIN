@@ -124,7 +124,7 @@ pandas==2.1.0
 **[아키텍처 대한 상세 설명은 해당 링크 참조 [#48] ](https://github.com/Melon-Shake/main_melonshake/issues/48)**
 
 # API(구현기능)
-
+[API기술문서](https://docs.google.com/document/d/1F262zoBj3_nOReX4U7sZPCUROWzzE5fRVDy__QXPqCc/edit)
 
 # Repository
   - **API** : [MelonShake API](https://github.com/Melon-Shake/API)
