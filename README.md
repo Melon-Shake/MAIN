@@ -88,7 +88,7 @@
 [MelonShake Requirement Specification](https://docs.google.com/document/d/1kF_kT1LH3Sg4hED9Dq33GScoqSx0IzO-dsmSjrhEFQY/edit)
 
 # API 문서화
-[API 정리]()
+[API 정리](https://docs.google.com/document/d/1F262zoBj3_nOReX4U7sZPCUROWzzE5fRVDy__QXPqCc/edit)
 
 # 버전 관리
  - [x] FE Version
