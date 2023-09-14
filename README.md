@@ -1,4 +1,4 @@
-<hr><div align="center" display="flex">
+<hr><div align="center" display="flex"> 
 <img alt="image" src="https://user-images.githubusercontent.com/79441624/263522796-42397a69-1a33-49bf-bf3c-83c9e5e852c3.png">
 </div>
 <br>
