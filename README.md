@@ -37,7 +37,6 @@
  - [API 문서화](#api-문서화)
  - [버전](#버전-관리)
  - [아키텍쳐](#architecture)
- - [API(구현 기능)](#api구현기능)
  - [레포지토리](#Repository)
  - [주요출처](#주요출처)
 
@@ -89,8 +88,10 @@
 [MelonShake Requirement Specification](https://docs.google.com/document/d/1kF_kT1LH3Sg4hED9Dq33GScoqSx0IzO-dsmSjrhEFQY/edit)
 
 # API 문서화
-[API 정리](https://docs.google.com/document/d/1F262zoBj3_nOReX4U7sZPCUROWzzE5fRVDy__QXPqCc/edit)
-
+![API기술문서](https://github.com/Melon-Shake/API/assets/79441624/7a7f5a05-dc36-40eb-bbd7-389fcadd0800)
+<br>
+[API기술문서](https://docs.google.com/document/d/1F262zoBj3_nOReX4U7sZPCUROWzzE5fRVDy__QXPqCc/edit)
+<br>
 # 버전 관리
  - [x] FE Version
 
@@ -123,11 +124,6 @@ pandas==2.1.0
 ![전체 아키텍처 및 기술스택](https://user-images.githubusercontent.com/51077803/264909346-a79aede1-2fad-4471-801a-7a26ff463e84.png)
 
 **[아키텍처 대한 상세 설명은 해당 링크 참조 [#48] ](https://github.com/Melon-Shake/main_melonshake/issues/48)**
-
-# API(구현기능)
-![API기술문서](https://github.com/Melon-Shake/API/assets/79441624/7a7f5a05-dc36-40eb-bbd7-389fcadd0800)
-<br>
-[API기술문서](https://docs.google.com/document/d/1F262zoBj3_nOReX4U7sZPCUROWzzE5fRVDy__QXPqCc/edit)
 
 # Repository
   - **API** : [MelonShake API](https://github.com/Melon-Shake/API)
