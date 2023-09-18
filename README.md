@@ -55,7 +55,7 @@
 ![MelonShake Use Case](https://github.com/Melon-Shake/API/assets/79441624/77b7a8fd-8e45-4219-a5eb-186377e2b3f4)
 
 # 역할분담
-![MelonShake Role](https://github.com/Melon-Shake/API/assets/79441624/9894713d-2bde-4dec-bcb4-1d9176168975)
+![MelonShake Role](https://github.com/Melon-Shake/MAIN/assets/79441624/a193ff60-3e65-4f60-af58-66a63e7e5ce5)
 
 # 기술스택
 ### Environment
