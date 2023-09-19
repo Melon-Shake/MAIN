@@ -43,7 +43,7 @@
 
 # 기획과정
 ### 1. Data Flow
-![MelonShake data flow](https://github.com/Melon-Shake/MAIN/assets/79441624/87361f2e-1701-429b-9d60-9ec4879839cf)
+![MelonShake data flow](https://github.com/Melon-Shake/MAIN/assets/79441624/213f072e-9857-4246-9a77-e32b0ba85cf7)
 <br>
 
 ### 2. SRS
